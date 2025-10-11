@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb9948d3-069f-4cc6-be63-81b0370e73b5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="33mUPtbDCwXOQtG23D8Z6Wy3tHz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BookServicesApplication.executor": "Run",
+    "Application.BorrowingServicesApplication.executor": "Run",
+    "Application.EurekaServerApplication.executor": "Run",
+    "Application.ServerApplication.executor": "Run",
+    "JUnit.BookControllerTest.executor": "Run",
+    "JUnit.com.library.BookServices in BookServices.executor": "Run",
+    "JUnit.com.library.BorrowingServices in BorrowingServices.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Myprojects/spark/microservice/Library Management/BorrowingServices/src/main/java/com/library/BorrowingServices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Myprojects\spark\microservice\Library Management\BorrowingServices\src\main\java\com\library\BorrowingServices" />
+      <recent name="C:\Myprojects\spark\microservice\Library Management\BookServices\src\main\java\com\library\BookServices" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Myprojects\spark\microservice\Library Management\EurekaServer\src\main\java\com\eureka" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.com.library.BorrowingServices in BorrowingServices">
+    <configuration name="BookServicesApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.library.BookServices.BookServicesApplication" />
+      <module name="BookServices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.library.BookServices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BorrowingServicesApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.library.BorrowingServices.BorrowingServicesApplication" />
+      <module name="BorrowingServices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.library.BorrowingServices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BookServices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.library.BookServices.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.library.BookServices.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.library.BookServices.controller.BookControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.library.BookServices in BookServices" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BookServices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.library.BookServices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.library.BookServices" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.library.BorrowingServices in BorrowingServices" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BorrowingServices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.library.BorrowingServices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.library.BorrowingServices" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.com.library.BorrowingServices in BorrowingServices" />
+        <item itemvalue="Application.BorrowingServicesApplication" />
+        <item itemvalue="JUnit.com.library.BookServices in BookServices" />
+        <item itemvalue="JUnit.BookControllerTest" />
+        <item itemvalue="Application.BookServicesApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb9948d3-069f-4cc6-be63-81b0370e73b5" name="Changes" comment="" />
+      <created>1759921719838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759921719838</updated>
+    </task>
+    <servers />
+  </component>
+</project>
